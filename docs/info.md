@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+2 AND gates outputting to OUT 1 and OUT 2 along with anded AND gates on OUT3
 
 ## How to test
 
-Explain how to use your project
+Switch the dipswitch
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display, dipswitch, pushbutton
